@@ -59,7 +59,11 @@ Your report will be saved to the location you specified.
 Note:
 -----
 - CSV exports create a separate file for each time period  
-- Excel reports include a summary sheet, category sheets, and visual charts  
+- Excel reports include a summary sheet, category sheets, and visual charts
+
+ExpenseWizrd.exe file
+-----
+The executable file does not have any requirement... obviously its all packaged and ready to roll.
   
 
 Uninstall Instructions:
