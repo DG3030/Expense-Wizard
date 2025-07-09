@@ -1,0 +1,3 @@
+pandas
+pyQt5
+openpyxl
