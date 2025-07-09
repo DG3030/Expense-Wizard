@@ -10,7 +10,7 @@ Back story:
 
 Between my wife and me, she handles most of our expenses, given her background, it makes sense. Occasionally she asks me to help out, but the thought of manually parsing statements, cutting and pasting everything into an Excel file? No way.  
 
-So instead, I turned to Python, Pandas, OpenPyXL, and a few charts to cut through the manual labor. This tool reads through our credit card statements, separates each expense by category, and shows us exactly where the money is going and because aperently accountants hate pie charts, its the default setting.
+So instead, I turned to Python, Pandas, OpenPyXL, and a few charts to cut through the manual labor. This tool reads through our credit card statements, separates each expense by category, and shows us exactly where the money is going and because apperently accountants hate pie charts, its the default setting.
 
 
 Overview:
