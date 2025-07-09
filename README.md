@@ -18,6 +18,19 @@ Overview:
 Expense Wizard helps you quickly parse trhough a credit card statements, organize them by date-filtering and ceating an expense report.  
 It supports Excel and CSV formats and offers a variety of chart styles to help visualize where your money goes.
 
+Requirements:
+---------
+To run Expense Wizard, you’ll need:
+
+- Python 3.x
+- pandas
+- PyQt5
+- openpyxl
+
+You can install the required packages with:
+
+pip install -r requirements.txt
+
 Features:
 ---------
  Import multiple statement files (.xlsx format)  
