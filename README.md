@@ -3,14 +3,15 @@
 
 Version: 1.0  
 Author: DG3030  
-Website: [pff]
+Website: [NULL]
 
-Back story:
----------
+**Backstory**
 
-Between my wife and me, she handles most of our expenses, given her background, it makes sense. Occasionally she asks me to help out, but the thought of manually parsing statements, cutting and pasting everything into an Excel file? No way.  
+When I owned a jewelry shop, one of the most time-consuming tasks at the end of every month was handling accounts payable. This meant cross-referencing every credit card payment a tedious, error-prone process when done by hand.
 
-So instead, I turned to Python, Pandas, OpenPyXL, and a few charts to cut through the manual labor. This tool reads through our credit card statements, separates each expense by category, and shows us exactly where the money is going and because apperently accountants hate pie charts, its the default setting.
+After returning to school and learning Python, one of my first goals was to find a better way to handle this problem. I started with Python’s built-in libraries but quickly realized they weren’t enough — that’s when Pandas came into the picture. With guidance from our accountant on what information was most relevant, the application began to take shape.
+
+The result was a tool that automatically reads credit card statements, sorts and categorizes each transaction using the item codes defined by the credit card company, and generates visual summaries. It turns hours of manual sorting into minutes — and because accountants apparently hate pie charts, that’s the default visualization.
 
 
 Overview:
